@@ -19,4 +19,8 @@ public partial class Form1 : Form
     {
         MessageBox.Show("Hello world!");
     }
+    public bool h()
+    {
+        return true;
+    }
 }
